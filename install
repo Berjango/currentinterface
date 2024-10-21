@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+sudo chmod a+x currentinterface
+sudo cp currentinterface /bin
